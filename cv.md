@@ -21,7 +21,7 @@ Part of the team responsible for the development of the Explorify website (scien
 
 I was brought in as a full stack developer, so I also worked with the team on adding automated testing to the frontend using Chai, Mocha, Cypress and Nightwatch (with Browserstack); and helped refactor the frontend code (with an emphasis on accessibly and UX) and developed new features (using Webpack, Javascript and SCSS/CSS). We also added in a stats dashboard, split testing (A/B), tracking and monitoring so we could see how our new features improved the user experience.
 
-###vConsultant Engineering Manager, Onlicar (November 2017 - March 2018)
+### Consultant Engineering Manager, Onlicar (November 2017 - March 2018)
 
 Fifty PIFs was brought in to evaluate the technical process at Onlicar and help streamline it.  I worked with the existing team to add in monitoring for their services, update the documentation to understand how all the systems worked together, and introduced the developers to automated testing. I also code reviewed and QA’d new python code for a system upgrade by our internal team.
 
@@ -72,6 +72,7 @@ Developed a collection of progress indicator tools using PHP5 and Prototype, for
 ### University of Nottingham (2000 - 2005)
 
 MSc in Information Technology: Distinction
+
 BA (Hons) Law with French: II.ii (3rd year at l’Université de Nantes, France)
 
 ### Ashby Grammar School, Leicestershire (1996 - 2000)
@@ -102,9 +103,13 @@ University of Nottingham Skillability Workshops (2002) - Communication, Negotiat
 ## POSITIONS OF RESPONSIBILITY AND VOLUNTEER WORK
 
 Walkthrough Writer on TrueAchievements.com (2014 - present)
+
 PHP Conference (London) (2016) - Part of the Mentorship program
+
 Volunteer on the Xbox LIVE Support and Enforcement Teams (May 2012 - November 2014)
+
 University of Nottingham (January 2004 – September 2005) - Representative on the Student-Staff Consultative Committee (MSc in IT), IT Officer on the Student Union Societies Executive Committee
+
 LiveJournal.com Customer Support (January 2003 - January 2005) - Volunteer support help, trainer and mentor on Technical Support Team and member of the French translation team for technical documentation
 
 ## OTHER INTERESTS
