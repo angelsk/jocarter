@@ -1,6 +1,10 @@
+---
+permalink: /cv
+---
+
 # CV
 
-Contact: work@jocarter.co.uk
+Contact: [work@jocarter.co.uk](work@jocarter.co.uk)
 
 Experienced and organised team lead, technical architect, software engineer, tester, developer, mentor and coach with knowledge of Agile methodologies, Continuous Integration, and test-driven and domain-driven development for websites and APIs. Expertise in PHP, with a preference for the Symfony framework; comfortable as a full-stack developer, with a focus on UX and Accessibility. Specialisation in code gardening (refactoring, pruning, maintenance, documentation, automation). Adept at picking up new concepts and skills quickly, and eager to learn new things.
 
