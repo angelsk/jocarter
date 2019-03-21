@@ -8,4 +8,4 @@ I've been coding websites ever since I got my first internet-enabled computer in
 
 I love making pretty and useful things that people can enjoy; whether it be websites, photographs or FIMO models.
 
-[See my CV](/cv)
+[See my CV](cv.md)
