@@ -27,3 +27,21 @@ $body-link-color: #3db1a0;
 
 @import "{{ site.theme }}";
 @import url('http://fonts.googleapis.com/css?family=Cantarell|Reenie+Beanie');
+
+#skip-to-content {
+    height: 1px;
+    width: 1px;
+    position: absolute;
+    overflow: hidden;
+    top: -10px;
+
+    &:focus {
+        position: fixed;
+        top: 10px;
+        left: 10px;
+        height: auto;
+        width: auto;
+        background: invert($body-link-color);
+        outline: thick solid invert($body-link-color);
+    }
+}
