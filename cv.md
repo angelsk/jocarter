@@ -19,6 +19,8 @@ Experienced and organised team lead, technical architect, software engineer, tes
 
 ### Consultant Engineering Manager and Tech Lead, Fifty Penguins in Fuzzy Socks Ltd (November 2017 - present)
 
+### Freelance PHP Developer, Babylon Health (March 2019 - present)
+
 ### Freelance Senior Software Developer, Wellcome Trust (March 2018 - December 2018)
 
 Part of the team responsible for the development of the Explorify website (science for primary school teachers). During my time there we refactored the majority of the codebase (PHP, frontend and the database), added additional automation for testing and QA, and upgraded the site from Symfony 3 to 4. Day to day work included code reviews, adding new features, cleaning data, maintenance and as much code gardening as I could squeeze in. I also contributed back to several of the open source bundles we used.
