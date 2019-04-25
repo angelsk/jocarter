@@ -17,9 +17,13 @@ Experienced and organised team lead, technical architect, software engineer, tes
 
 ## EXPERIENCE
 
-### Consultant Engineering Manager and Tech Lead, Fifty Penguins in Fuzzy Socks Ltd (November 2017 - present)
+### Director, Consultant Engineering Manager and Tech Lead, Jo Carter Ltd (April 2019 - present)
 
-### Freelance PHP Developer, Babylon Health (March 2019 - present)
+### Consultant Engineering Manager and Tech Lead, Fifty Penguins in Fuzzy Socks Ltd (November 2017 - April 2019)
+
+### Freelance PHP Developer, Babylon Health (March 2019 - April 2019)
+
+Brought in to upgrade a legacy Symfony 2 application for long term support. Also did some code gardening.
 
 ### Freelance Senior Software Developer, Wellcome Trust (March 2018 - December 2018)
 
