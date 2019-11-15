@@ -17,7 +17,7 @@ Experienced and organised team lead, technical architect, software engineer, tes
 
 ## EXPERIENCE
 
-### Director, Consultant Engineering Manager and Tech Lead, Jo Carter Ltd (April 2019 - present)
+### Director, Consultant Tech Lead and Principle Software Engineer, Jo Carter Ltd (April 2019 - present)
 
 ### Consultant Senior PHP Developer at J Sainsbury, Daemon Solutions (May 2019 – present)
 
