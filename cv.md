@@ -19,6 +19,8 @@ Experienced and organised team lead, technical architect, software engineer, tes
 
 ### Director, Consultant Tech Lead and Principle Software Engineer, Jo Carter Ltd (April 2019 - present)
 
+### Arc.dev/ CodeMentorX Certified Developer and Peer Technical Interviewer (May 2019 - present)
+
 ### Consultant Senior PHP Developer at J Sainsbury, Daemon Solutions (May 2019 – December 2019)
 
 Via the technology consultancy firm Daemon Solutions, I worked with the Sainsbury's Food to Order team on their website, which consisted of a collection of Symfony 4 microservices (used by their Node and React applications) and a legacy Symfony 3 monolith.  I was involved in integration with internal (third party) APIs, logging and auditing, code gardening, documentation, planning and deprecation of old code. This included upgrading the monolith to the latest version of PHP and Symfony 3; and rolling out a whole range of code improvement tools across the microservices (PHPStan, Infection/ Mutation), in addition to improving overall coverage and code  quality. I really enjoyed collaborating with the team, including helping mentor an apprentice developer.
