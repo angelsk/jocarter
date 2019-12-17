@@ -19,12 +19,9 @@ Experienced and organised team lead, technical architect, software engineer, tes
 
 ### Director, Consultant Tech Lead and Principle Software Engineer, Jo Carter Ltd (April 2019 - present)
 
-### Consultant Senior PHP Developer at J Sainsbury, Daemon Solutions (May 2019 – present)
+### Consultant Senior PHP Developer at J Sainsbury, Daemon Solutions (May 2019 – December 2019)
 
-At Sainsbury's I am working with the Food to Order team on their website, which consists of a collection of Symfony 4 microservices and a legacy Symfony 3 monolith (which are used by their Node and React applications).  I have been involved in integration with internal third party APIs, logging and auditing, code gardening, and deprecation of old code; including upgrading the monolith to the latest version of PHP and Symfony 3.
-
-Daemon Solutions is a technology consultancy that puts people first.
-We believe that technology can help people to do better work in the world. Making that happen for business isn’t always easy, we’ll help you to bridge the gap between where you are now and where you want to be.
+Via the technology consultancy firm Daemon Solutions, I worked with the Sainsbury's Food to Order team on their website, which consisted of a collection of Symfony 4 microservices (used by their Node and React applications) and a legacy Symfony 3 monolith.  I was involved in integration with internal (third party) APIs, logging and auditing, code gardening, documentation, planning and deprecation of old code. This included upgrading the monolith to the latest version of PHP and Symfony 3; and rolling out a whole range of code improvement tools across the microservices (PHPStan, Infection/ Mutation), in addition to improving overall coverage and code  quality. I really enjoyed collaborating with the team, including helping mentor an apprentice developer.
 
 ### Consultant Engineering Manager and Tech Lead, Fifty Penguins in Fuzzy Socks Ltd (November 2017 - April 2019)
 
