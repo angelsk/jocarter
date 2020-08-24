@@ -11,7 +11,7 @@ Experienced and organised team lead, technical architect, software engineer, tes
 ## KEY TECHNICAL SKILLS
 
 * The Development Process including Agile Methodologies, TDD/ DDD, Continuous Integration, Accessibility
-* Symfony framework (1.0 -> 4+), with Doctrine
+* Symfony framework (1.0 -> 5+), with Doctrine
 * PHP, SQL (MySQL), CSS, Javascript (plus Webpack)
 * TDD and DDD with PhpSpec, PHPUnit, Behat, Chai and Mocha, Nightwatch, and Cypress
 
@@ -19,7 +19,13 @@ Experienced and organised team lead, technical architect, software engineer, tes
 
 ### Director, Consultant Tech Lead and Principle Software Engineer, Jo Carter Ltd (April 2019 - present)
 
-### Arc.dev/ CodeMentorX Certified Developer and Peer Technical Interviewer (May 2019 - present)
+### Senior Software Engineer - MyBuilder.com (Feb – August 2020)
+
+Working with both "legacy" and new Symfony systems (versions 3.4, 4, and 5) - I have worked on multiple projects at MyBuilder. These included: MyBuilderPlus (event-driven backend, CQRS, Symfony 5 with messenger component, DDD, Docker, Lambda and Bref; and a Symfony+Twig frontend consumer site); the MyBuilder site (slightly legacy, Symfony 3.4), with additional microservices e.g Push Notifications, that are Symfony 5 + Bref; and the Quote Tool (Symfony 4 API Write Model for a React Client app, with event and commands). I have been involved in both upgrading legacy code and writing new functionality, both working solo and pairing with other developers.
+
+### Arc.dev/ CodeMentorX Certified Developer and Peer Technical Interviewer (May 2019 - Jan 2020)
+
+Involved in technical peer interviews to help vet developers applying to the program.
 
 ### Consultant Senior PHP Developer at J Sainsbury, Daemon Solutions (May 2019 – December 2019)
 
@@ -107,18 +113,19 @@ University of Nottingham Skillability Workshops (2002) - Communication, Negotiat
 
 ## ADDITIONAL SKILLS
 
-* Experienced technical architect
-* Experience with continuous integration with Travis, Ant, Jenkins and Amazon Web Services (and some Docker knowledge)
+* Experienced technical architect (DDD, BDD, TDD) - with added experience of microservices, monoliths and event-based systems
+* Experience with continuous integration with Github Actions, Make, GoCD, Jenkins, Travis, Ant, and Amazon Web Services (and some Docker knowledge)
 * Experienced database designer, developer and SQL programmer (MySQL)
 * Experience with source control systems (Git and SVN)
 * Experience with setting up and configuring *nix servers with nginx (LEMP Stack)
+* Some experience with Lamba and Bref (serverless)
 * Experience with web development (Twig, CSS/SCSS, JavaScript, XSLT/XML, XHTML) - with an emphasis on accessibility and UX
 * Writing technical documentation, identifying security considerations, user interface and experience design
 * Specialisation in code gardening (refactoring, pruning, maintenance, documentation, automation, data cleaning)
 
 ## POSITIONS OF RESPONSIBILITY AND VOLUNTEER WORK
 
-Walkthrough Writer on TrueAchievements.com (2014 - present)
+Walkthrough Writer on TrueAchievements.com (2014 - 2020)
 
 PHP Conference (London) (2016) - Part of the Mentorship program
 
@@ -130,7 +137,7 @@ LiveJournal.com Customer Support (January 2003 - January 2005) - Volunteer suppo
 
 ## OTHER INTERESTS
 
-* Streaming video games regularly on Mixer
+* Streaming video games regularly on Twitch
 * One of the Hosts on the Home Movie Club podcast, part of the That Podcast Thing network
 * Computer games, achievement hunting, photography, reading, puzzles, ARGs: a self-confessed geek
 * Swimming (Gold Survival, Life Support 2 First Aid and Merit Lifesaving Award)
