@@ -6,18 +6,22 @@ permalink: /cv
 
 Contact: [work@jocarter.co.uk](work@jocarter.co.uk)
 
-Experienced and organised team lead, technical architect, software engineer, tester, developer, mentor and coach with knowledge of Agile methodologies, Continuous Integration, and test-driven and domain-driven development for websites and APIs. Expertise in PHP, with a preference for the Symfony framework; comfortable as a full-stack developer, with a focus on UX and Accessibility. Specialisation in code gardening (refactoring, pruning, maintenance, documentation, automation). Adept at picking up new concepts and skills quickly, and eager to learn new things.
+Experienced and organised Head of Engineering, team lead, technical architect, principle software engineer, tester, developer, mentor and coach with knowledge of Agile methodologies, Continuous Integration, and test-driven and domain-driven development for websites and APIs. Expertise in PHP, with a preference for the Symfony framework; comfortable as a full-stack developer, with a focus on UX and Accessibility. Specialisation in code gardening (refactoring, pruning, maintenance, documentation, automation). Adept at picking up new concepts and skills quickly, and eager to learn new things.
 
 ## KEY TECHNICAL SKILLS
 
-* The Development Process including Agile Methodologies, TDD/ DDD, Continuous Integration, Accessibility
-* Symfony framework (1.0 -> 5+), with Doctrine
+* The Development Process including Agile Methodologies, TDD/ DDD, Microservices, Event-Based Systems, Continuous Integration, Accessibility 
+* Symfony framework (1.0 -> 5+), with Doctrine, Laravel
 * PHP, SQL (MySQL), CSS, Javascript (plus Webpack)
 * TDD and DDD with PhpSpec, PHPUnit, Behat, Chai and Mocha, Nightwatch, and Cypress
 
 ## EXPERIENCE
 
-### Director, Consultant Tech Lead and Principle Software Engineer, Jo Carter Ltd (April 2019 - present)
+### Head of Engineering, Poplar Studio (Sept 2021 - present)
+
+### Tech Lead, Poplar Studio (Sept 2020 - Sept 2021)
+
+### Director, Consultant Tech Lead and Principle Software Engineer, Jo Carter Ltd (April 2019 - June 2021)
 
 ### Senior Software Engineer - MyBuilder.com (Feb – August 2020)
 
