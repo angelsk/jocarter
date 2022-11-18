@@ -10,7 +10,7 @@ I love making pretty and useful things that people can enjoy; whether it be webs
 
 [See my CV](cv.md)
 
-If you need to get in touch with me about work, or my portfolio; then please email <a href="mailto:work@jocarter.co.uk">work@jocarter.co.uk</a></p>
+If you need to get in touch with me about work, or my portfolio; then please email <a href="mailto:work@jocarter.co.uk">work@jocarter.co.uk</a>
 
 If you are trying to get in contact with me about Packrat Tools, then please use the contact information on the <a href="http://packrattools.com">site</a>
 
