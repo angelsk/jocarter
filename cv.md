@@ -86,8 +86,10 @@ My team and I mainly worked on internal projects, which included developing a cu
 I was directly responsible for managing several members of the development team, including coaching, mentoring and career path development. I was heavily involved in the recruitment process for new team members; through tech tests, interviews and hiring. I was part of the diversity and inclusion network within the Mill; and took part in many training courses (detailed below).
 
 ### Technical Lead, Holler Digital Ltd. (January 2011 - November 2014)
-  #### &nbsp; &nbsp; Senior Developer, (September 2012 - May 2014)
-  #### &nbsp; &nbsp; Developer (January 2011 - September 2012)
+
+#### &nbsp; &nbsp; Senior Developer, (September 2012 - May 2014)
+
+#### &nbsp; &nbsp; Developer (January 2011 - September 2012)
 
 ### Freelance Senior Developer, Albion London (December 2010 - January 2011)
 
