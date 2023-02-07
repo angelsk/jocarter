@@ -31,7 +31,7 @@ Talented and experienced technical leader, manager, mentor and coach. Looking fo
 ## EXPERIENCE
 
 ### Head of Engineering, Poplar Studio (September 2020 - March 2023)
-  #### Tech Lead, Poplar Studio (September 2020 - September 2021)
+#### &nbsp; &nbsp; Tech Lead (September 2020 - September 2021)
 
 Responsible for building, managing and coaching the engineering team; and for technical architecture and direction, in direct liaison with the product team. Additionally, I was hand-ons with innovating, coding and managing tech debt and infrastructure. Also responsible for shaping and maintaining an inclusive company culture.
 
@@ -47,33 +47,33 @@ Highlights:
 
 ### Director, Jo Carter Ltd (April 2019 - June 2021)
 
-  #### Senior Software Engineer - MyBuilder.com (February – August 2020)
+  #### &nbsp; &nbsp; Senior Software Engineer - MyBuilder.com (February – August 2020)
 
-  Worked with several Symfony systems (3.4, 4, and 5) on multiple projects at MyBuilder. Involved in both upgrading legacy code and writing new functionality, both working solo and pairing with other developers.
+   &nbsp; &nbsp; Worked with several Symfony systems (3.4, 4, and 5) on multiple projects at MyBuilder. Involved in both upgrading legacy code and writing new functionality, both working solo and pairing with other developers.
 
-  These included: MyBuilderPlus (event-driven backend, CQRS, Symfony 5 with messenger component, DDD, Docker, Lambda and Bref; and a Symfony+Twig frontend consumer site); The MyBuilder site (Symfony 3.4), with additional microservices e.g Push Notifications, (Symfony 5 + Bref); and the Quote Tool (Symfony 4 API Write Model for a React Client app, with events and commands). 
+   &nbsp; &nbsp; These included: MyBuilderPlus (event-driven backend, CQRS, Symfony 5 with messenger component, DDD, Docker, Lambda and Bref; and a Symfony+Twig frontend consumer site); The MyBuilder site (Symfony 3.4), with additional microservices e.g Push Notifications, (Symfony 5 + Bref); and the Quote Tool (Symfony 4 API Write Model for a React Client app, with events and commands). 
 
-  #### Arc.dev/ CodeMentorX Certified Developer and Peer Technical Interviewer (May 2019 - Jan 2020)
+  #### &nbsp; &nbsp; Arc.dev/ CodeMentorX Certified Developer and Peer Technical Interviewer (May 2019 - Jan 2020)
 
-  Involved in technical peer interviews to help vet developers applying to the program.
+  &nbsp; &nbsp; Involved in technical peer interviews to help vet developers applying to the program.
 
-  #### Consultant Senior PHP Developer at J Sainsbury, Daemon Solutions (May – December 2019)
+  ####  &nbsp; &nbsp; Consultant Senior PHP Developer at J Sainsbury, Daemon Solutions (May – December 2019)
 
-  Via the technology consultancy firm Daemon Solutions, I worked with the Sainsbury’s Food to Order team on their website, which consisted of a collection of Symfony 4 microservices (used by their Node and React applications) and a legacy Symfony 3 monolith. I was involved in integration with internal (third party) APIs, logging and auditing, code gardening, documentation, planning and deprecation of old code. This included upgrading the monolith to the latest version of PHP and Symfony 3; and rolling out a whole range of code improvement tools across the microservices (PHPStan, Infection/ Mutation), in addition to improving overall coverage and code quality. I really enjoyed collaborating with the team, including helping mentor an apprentice developer.
+  &nbsp; &nbsp; Via the technology consultancy firm Daemon Solutions, I worked with the Sainsbury’s Food to Order team on their website, which consisted of a collection of Symfony 4 microservices (used by their Node and React applications) and a legacy Symfony 3 monolith. I was involved in integration with internal (third party) APIs, logging and auditing, code gardening, documentation, planning and deprecation of old code. This included upgrading the monolith to the latest version of PHP and Symfony 3; and rolling out a whole range of code improvement tools across the microservices (PHPStan, Infection/ Mutation), in addition to improving overall coverage and code quality. I really enjoyed collaborating with the team, including helping mentor an apprentice developer.
 
 ### Fifty Penguins in Fuzzy Socks Ltd (November 2017 - April 2019)
 
-  #### Freelance PHP Developer, Babylon Health (March - April 2019)
+  #### &nbsp; &nbsp; Freelance PHP Developer, Babylon Health (March - April 2019)
 
-  #### Freelance Senior Software Developer, Wellcome Trust (March - December 2018)
+  #### &nbsp; &nbsp; Freelance Senior Software Developer, Wellcome Trust (March - December 2018)
 
-  Part of the team responsible for the development of the Explorify website (science for primary school teachers). During my time there we refactored the majority of the codebase (PHP, frontend and the database), added additional automation for testing and QA, and upgraded the site from Symfony 3 to 4. Day to day work included code reviews, adding new features, cleaning data, maintenance and as much code gardening as I could squeeze in. I also contributed back to several of the open source bundles we used.
+  &nbsp; &nbsp; Part of the team responsible for the development of the Explorify website (science for primary school teachers). During my time there we refactored the majority of the codebase (PHP, frontend and the database), added additional automation for testing and QA, and upgraded the site from Symfony 3 to 4. Day to day work included code reviews, adding new features, cleaning data, maintenance and as much code gardening as I could squeeze in. I also contributed back to several of the open source bundles we used.
 
-  I was brought in as a full-stack developer, so I also worked with the team on adding automated testing using Chai, Mocha, Cypress and Nightwatch (with Browserstack); and helped refactor the frontend code (with an emphasis on accessibly and UX) and developed new features (using Webpack, Javascript and SCSS/CSS). We also added in a stats dashboard, split testing (A/B), tracking and monitoring so we could see how our new features improved the user experience.
+  &nbsp; &nbsp; I was brought in as a full-stack developer, so I also worked with the team on adding automated testing using Chai, Mocha, Cypress and Nightwatch (with Browserstack); and helped refactor the frontend code (with an emphasis on accessibly and UX) and developed new features (using Webpack, Javascript and SCSS/CSS). We also added in a stats dashboard, split testing (A/B), tracking and monitoring so we could see how our new features improved the user experience.
 
-  #### Consultant Engineering Manager, Onlicar (November 2017 - March 2018)
+  #### &nbsp; &nbsp; Consultant Engineering Manager, Onlicar (November 2017 - March 2018)
 
-  Fifty PIFs was brought in to evaluate the technical process at Onlicar and help streamline it.  I worked with the existing team to add in monitoring for their services, update the documentation to understand how all the systems worked together, and introduced the developers to automated testing. I also code reviewed and QA’d new python code for a system upgrade by our internal team.
+  &nbsp; &nbsp; Fifty PIFs was brought in to evaluate the technical process at Onlicar and help streamline it.  I worked with the existing team to add in monitoring for their services, update the documentation to understand how all the systems worked together, and introduced the developers to automated testing. I also code reviewed and QA’d new python code for a system upgrade by our internal team.
 
 ### Engineering Manager, MOO (June 2017 - November 2017)
 
@@ -86,8 +86,8 @@ My team and I mainly worked on internal projects, which included developing a cu
 I was directly responsible for managing several members of the development team, including coaching, mentoring and career path development. I was heavily involved in the recruitment process for new team members; through tech tests, interviews and hiring. I was part of the diversity and inclusion network within the Mill; and took part in many training courses (detailed below).
 
 ### Technical Lead, Holler Digital Ltd. (January 2011 - November 2014)
-  #### Senior Developer, (September 2012 - May 2014)
-  #### Developer (January 2011 - September 2012)
+  #### &nbsp; &nbsp; Senior Developer, (September 2012 - May 2014)
+  #### &nbsp; &nbsp; Developer (January 2011 - September 2012)
 
 ### Freelance Senior Developer, Albion London (December 2010 - January 2011)
 
@@ -98,8 +98,6 @@ I was directly responsible for managing several members of the development team,
 ### Developer, Mind Candy Design Ltd. (March 2006 – June 2007)
 
 ### Packrat Tools - Personal Project (packrattools.com) (2008 - present)
-
-Developed a collection of tools using PHP5 for Packrat (a virtual social card collecting game). These include a MOO Sticker generator (using the MOO API); a market tracker; an information tool, which displays recipes and market information for the cards; and a mockup generator. They have been received well by the Packrat community, and the developers of the game. My latest development on the site includes integration with a custom API developed for me personally by the developers of the game to support my site.
 
 ## EDUCATION
 
