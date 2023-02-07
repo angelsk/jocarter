@@ -4,52 +4,76 @@ permalink: /cv
 
 # CV
 
+## Jo Carter (she/her)
+
 Contact: [work@jocarter.co.uk](work@jocarter.co.uk)
 
-Experienced and organised Head of Engineering, team lead, technical architect, principle software engineer, tester, developer, mentor and coach with knowledge of Agile methodologies, Continuous Integration, and test-driven and domain-driven development for websites and APIs. Expertise in PHP, with a preference for the Symfony framework; comfortable as a full-stack developer, with a focus on UX and Accessibility. Specialisation in code gardening (refactoring, pruning, maintenance, documentation, automation). Adept at picking up new concepts and skills quickly, and eager to learn new things.
+Talented and experienced technical leader, manager, mentor and coach. Looking for a balance between management, technical architecture and leadership, and hands-on coding. Wanting to make a difference and make peoples lives easier. A literal-minded individual who thrives with clarity of communication, and in an inclusive workplace culture.
 
-## KEY TECHNICAL SKILLS
+## KEY SKILLS
 
-* The Development Process including Agile Methodologies, TDD/ DDD, Microservices, Event-Based Systems, Continuous Integration, Accessibility 
-* Symfony framework (1.0 -> 5+), with Doctrine, Laravel
-* PHP, SQL (MySQL), CSS, Javascript (plus Webpack)
-* TDD and DDD with PhpSpec, PHPUnit, Behat, Chai and Mocha, Nightwatch, and Cypress
+* Passionate about diversity, inclusion and accessibility (shaping company culture and having a positive impact on peoples lives)
+* Managing, coaching, mentoring; with a special interest in neurodivergent individuals
+* Writing technical documentation and diagrams, identifying security considerations and edge cases, user interface and experience design
+* Specialisation in code gardening (refactoring, pruning, maintenance, documentation, automation, data cleaning)
+* Delivery assurance (code quality, automated testing, quality assurance, edge cases, aesthetics, follow through, oversight over the entire project process)
+* Product-minded developer (accessibility, domain-driven design and test-driven development)
+
+## TECHNOLOGIES AND PLATFORMS
+
+* PHP (Laravel with Nova, Symfony) 
+* Javascript (Node, Typescript, Vue including Composition API, React) 
+* Augmented Reality (AR) - Three.js, Shaders (GLSL), GLB/GLTF/USDZ, Model Viewer, WebAR
+* Analytics and data engineering (Snowplow, dbt Cloud, Postgres, SQL)
+* Automated testing - unit/ integration tests (PHPUnit, Cypress, Mocha, etc); Static code analytics (ESlint, PHPStan, etc)
+* Devops/ Infrastructure (AWS, GCP, Terraform, Ansible, Kubernetes, Docker, Nginx)
 
 ## EXPERIENCE
 
-### Head of Engineering, Poplar Studio (Sept 2021 - present)
+### Head of Engineering, Poplar Studio (September 2020 - March 2023)
+  #### Tech Lead, Poplar Studio (September 2020 - September 2021)
 
-### Tech Lead, Poplar Studio (Sept 2020 - Sept 2021)
+Responsible for building, managing and coaching the engineering team; and for technical architecture and direction, in direct liaison with the product team. Additionally, I was hand-ons with innovating, coding and managing tech debt and infrastructure. Also responsible for shaping and maintaining an inclusive company culture.
 
-### Director, Consultant Tech Lead and Principle Software Engineer, Jo Carter Ltd (April 2019 - June 2021)
+Highlights:
 
-### Senior Software Engineer - MyBuilder.com (Feb – August 2020)
+- Platform migration from Wordpress to Vue and Laravel with Nova for the Admin (AWS, Ansible, Postgres), including a recent upgrade to the Vue Composition API
+- Researching, designing and building an Analytics Pipeline and data visualisation in Snowplow and dbt cloud
+- Learning about Augmented Reality (AR), with a focus on WebAR, 3D models and shaders
+- Upgrading and maintaining the AR-asset conversion pipeline, API, CMS and infrastructure (Node, Sequelize, Postgres, GCP, Kubernetes, Terraform)
+- Development of an embeddable unit integrated with a single line of code for e-commerce websites to showcase their products in 3D and AR - including innovation around how to make AR accessible
+- Working with the team to innovate and build new products, and learning via solo and paired projects
+- Part of the Leadership team: which also included attending and presenting at board meetings, producing technical due diligence assets and applying for R&D tax credits
 
-Working with both "legacy" and new Symfony systems (versions 3.4, 4, and 5) - I have worked on multiple projects at MyBuilder. These included: MyBuilderPlus (event-driven backend, CQRS, Symfony 5 with messenger component, DDD, Docker, Lambda and Bref; and a Symfony+Twig frontend consumer site); the MyBuilder site (slightly legacy, Symfony 3.4), with additional microservices e.g Push Notifications, that are Symfony 5 + Bref; and the Quote Tool (Symfony 4 API Write Model for a React Client app, with event and commands). I have been involved in both upgrading legacy code and writing new functionality, both working solo and pairing with other developers.
+### Director, Jo Carter Ltd (April 2019 - June 2021)
 
-### Arc.dev/ CodeMentorX Certified Developer and Peer Technical Interviewer (May 2019 - Jan 2020)
+  #### Senior Software Engineer - MyBuilder.com (February – August 2020)
 
-Involved in technical peer interviews to help vet developers applying to the program.
+  Worked with several Symfony systems (3.4, 4, and 5) on multiple projects at MyBuilder. Involved in both upgrading legacy code and writing new functionality, both working solo and pairing with other developers.
 
-### Consultant Senior PHP Developer at J Sainsbury, Daemon Solutions (May 2019 – December 2019)
+  These included: MyBuilderPlus (event-driven backend, CQRS, Symfony 5 with messenger component, DDD, Docker, Lambda and Bref; and a Symfony+Twig frontend consumer site); The MyBuilder site (Symfony 3.4), with additional microservices e.g Push Notifications, (Symfony 5 + Bref); and the Quote Tool (Symfony 4 API Write Model for a React Client app, with events and commands). 
 
-Via the technology consultancy firm Daemon Solutions, I worked with the Sainsbury's Food to Order team on their website, which consisted of a collection of Symfony 4 microservices (used by their Node and React applications) and a legacy Symfony 3 monolith.  I was involved in integration with internal (third party) APIs, logging and auditing, code gardening, documentation, planning and deprecation of old code. This included upgrading the monolith to the latest version of PHP and Symfony 3; and rolling out a whole range of code improvement tools across the microservices (PHPStan, Infection/ Mutation), in addition to improving overall coverage and code  quality. I really enjoyed collaborating with the team, including helping mentor an apprentice developer.
+  #### Arc.dev/ CodeMentorX Certified Developer and Peer Technical Interviewer (May 2019 - Jan 2020)
 
-### Consultant Engineering Manager and Tech Lead, Fifty Penguins in Fuzzy Socks Ltd (November 2017 - April 2019)
+  Involved in technical peer interviews to help vet developers applying to the program.
 
-### Freelance PHP Developer, Babylon Health (March 2019 - April 2019)
+  #### Consultant Senior PHP Developer at J Sainsbury, Daemon Solutions (May – December 2019)
 
-Brought in to upgrade a legacy Symfony 2 application for long term support. Also did some code gardening.
+  Via the technology consultancy firm Daemon Solutions, I worked with the Sainsbury’s Food to Order team on their website, which consisted of a collection of Symfony 4 microservices (used by their Node and React applications) and a legacy Symfony 3 monolith. I was involved in integration with internal (third party) APIs, logging and auditing, code gardening, documentation, planning and deprecation of old code. This included upgrading the monolith to the latest version of PHP and Symfony 3; and rolling out a whole range of code improvement tools across the microservices (PHPStan, Infection/ Mutation), in addition to improving overall coverage and code quality. I really enjoyed collaborating with the team, including helping mentor an apprentice developer.
 
-### Freelance Senior Software Developer, Wellcome Trust (March 2018 - December 2018)
+### Fifty Penguins in Fuzzy Socks Ltd (November 2017 - April 2019)
 
-Part of the team responsible for the development of the Explorify website (science for primary school teachers). During my time there we refactored the majority of the codebase (PHP, frontend and the database), added additional automation for testing and QA, and upgraded the site from Symfony 3 to 4. Day to day work included code reviews, adding new features, cleaning data, maintenance and as much code gardening as I could squeeze in. I also contributed back to several of the open source bundles we used.
+  #### Freelance PHP Developer, Babylon Health (March - April 2019)
 
-I was brought in as a full stack developer, so I also worked with the team on adding automated testing to the frontend using Chai, Mocha, Cypress and Nightwatch (with Browserstack); and helped refactor the frontend code (with an emphasis on accessibly and UX) and developed new features (using Webpack, Javascript and SCSS/CSS). We also added in a stats dashboard, split testing (A/B), tracking and monitoring so we could see how our new features improved the user experience.
+  #### Freelance Senior Software Developer, Wellcome Trust (March - December 2018)
 
-### Consultant Engineering Manager, Onlicar (November 2017 - March 2018)
+  Part of the team responsible for the development of the Explorify website (science for primary school teachers). During my time there we refactored the majority of the codebase (PHP, frontend and the database), added additional automation for testing and QA, and upgraded the site from Symfony 3 to 4. Day to day work included code reviews, adding new features, cleaning data, maintenance and as much code gardening as I could squeeze in. I also contributed back to several of the open source bundles we used.
 
-Fifty PIFs was brought in to evaluate the technical process at Onlicar and help streamline it.  I worked with the existing team to add in monitoring for their services, update the documentation to understand how all the systems worked together, and introduced the developers to automated testing. I also code reviewed and QA’d new python code for a system upgrade by our internal team.
+  I was brought in as a full-stack developer, so I also worked with the team on adding automated testing using Chai, Mocha, Cypress and Nightwatch (with Browserstack); and helped refactor the frontend code (with an emphasis on accessibly and UX) and developed new features (using Webpack, Javascript and SCSS/CSS). We also added in a stats dashboard, split testing (A/B), tracking and monitoring so we could see how our new features improved the user experience.
+
+  #### Consultant Engineering Manager, Onlicar (November 2017 - March 2018)
+
+  Fifty PIFs was brought in to evaluate the technical process at Onlicar and help streamline it.  I worked with the existing team to add in monitoring for their services, update the documentation to understand how all the systems worked together, and introduced the developers to automated testing. I also code reviewed and QA’d new python code for a system upgrade by our internal team.
 
 ### Engineering Manager, MOO (June 2017 - November 2017)
 
@@ -61,15 +85,9 @@ My team and I mainly worked on internal projects, which included developing a cu
 
 I was directly responsible for managing several members of the development team, including coaching, mentoring and career path development. I was heavily involved in the recruitment process for new team members; through tech tests, interviews and hiring. I was part of the diversity and inclusion network within the Mill; and took part in many training courses (detailed below).
 
-### Technical Lead, Holler Digital Ltd. (May 2014 - November 2014)
-
-### Senior Developer, Holler Digital Ltd. (September 2012 - May 2014)
-
-### Developer, Holler Digital Ltd. (January 2011 - September 2012)
-
-Responsible for developing and styling new websites, microsites and Facebook applications (using Symfony 1.4 and Symfony2) for a variety of clients; including writing functional and technical specifications for projects. Also responsible for setting up live server environments with nginx and Apache2. I also contributed to several open source projects.
-
-I was an integral part of the development team and responsible for mentoring other team members, leading projects and writing technical documentation.
+### Technical Lead, Holler Digital Ltd. (January 2011 - November 2014)
+  #### Senior Developer, (September 2012 - May 2014)
+  #### Developer (January 2011 - September 2012)
 
 ### Freelance Senior Developer, Albion London (December 2010 - January 2011)
 
@@ -77,59 +95,25 @@ I was an integral part of the development team and responsible for mentoring oth
 
 ### Developer, Pod1 Ltd. (June 2007 - September 2010)
 
-Responsible for maintaining and developing a selection of e-commerce and content managed websites for a variety of clients primarily in the fashion and holiday industries; including proposing new solutions for existing clients, and writing functional and technical specifications for projects.  Development in PHP5 (with MySQL), using both a custom framework solution and an open source framework, Symfony (with database abstraction using both Propel and Doctrine). I was an integral part of both the agency and the development team and assumed the role of key "go-to" person (and the most requested) for anything related to Pod1's in-house CMS solutions. I also mentored both new starters and existing team members.
-
 ### Developer, Mind Candy Design Ltd. (March 2006 – June 2007)
-
-Responsible for maintaining and developing many websites used for Perplex City, an online alternate reality game (ARG); and a website used for the BBC Big Weekend ARG. Also involved in the alpha stages of the development for Moshi Monsters.
-
-Developed several versions of perplexcity.com, a large online community site; using first XSLT/XML and JSP (RESTful Perl interface), and then JSP and custom Java tags with Hibernate.  Additionally designed and developed a User Administration website for internal use by Customer Support; and a wayback archive in JSP for the sites from Perplex City Season 1. Designed and developed a Store Locator in PHP and MySQL, which used the Google Maps API, and interfaced with a system which calculated the nearest stores to the entered location. Designed and developed a Puzzle Manager system which used JSP, custom Java tags, Hibernate and MySQL to store, manage, display and manipulate data entered for puzzles.  Additionally developed a Content Management System (CMS) in JSP with MySQL; including custom JSP tags and Freemarker templates to display the data entered into the CMS.
 
 ### Packrat Tools - Personal Project (packrattools.com) (2008 - present)
 
 Developed a collection of tools using PHP5 for Packrat (a virtual social card collecting game). These include a MOO Sticker generator (using the MOO API); a market tracker; an information tool, which displays recipes and market information for the cards; and a mockup generator. They have been received well by the Packrat community, and the developers of the game. My latest development on the site includes integration with a custom API developed for me personally by the developers of the game to support my site.
 
-### 4cities – Personal Project (cities.jocarter.co.uk) (2007)
-
-Developed a collection of progress indicator tools using PHP5 and Prototype, for a massively multiplayer web-based online game called Cities (now offline).  This was the winning entry for a competition for the tool that made the best use of the game’s XML feeds (I won an extra soul in-game).  It also integrated an external API, which provided the best prices for in-game items.
-
 ## EDUCATION
 
 ### University of Nottingham (2000 - 2005)
 
-MSc in Information Technology: Distinction
+MSc in Information Technology: **Distinction**
 
 BA (Hons) Law with French: II.ii (3rd year at l’Université de Nantes, France)
 
-### Ashby Grammar School, Leicestershire (1996 - 2000)
-
-‘A’ Levels: Mathematics (A) Computer Science (A) French (B) and German (B)
-
-## TRAINING AND COURSES.
-
-The Mill and Working Voices (2014 - 2016) - The Art of Delegation, Unconscious Bias, Effective Meetings, Manager as Coach, Managing Your Mates, Recruiting, Annual Reviews, Leading Creatives, Conversational Judo, Commercial Awareness, Communicate to Collaborate, Public Speaking, Presentation Skills, Management 101, Own Your Time
-
-MCSA via ICS (London) Career Path (2005 – 2006)
-
-Learn Direct Management Course (2005) - Standard Operation, Kaizen, 5S & Skill Control
-
-University of Nottingham Skillability Workshops (2002) - Communication, Negotiation, Leadership, Team Work, Presentation, Commercial Awareness and Time Management
-
-## ADDITIONAL SKILLS
-
-* Experienced technical architect (DDD, BDD, TDD) - with added experience of microservices, monoliths and event-based systems
-* Experience with continuous integration with Github Actions, Make, GoCD, Jenkins, Travis, Ant, and Amazon Web Services (and some Docker knowledge)
-* Experienced database designer, developer and SQL programmer (MySQL)
-* Experience with source control systems (Git and SVN)
-* Experience with setting up and configuring *nix servers with nginx (LEMP Stack)
-* Some experience with Lamba and Bref (serverless)
-* Experience with web development (Twig, CSS/SCSS, JavaScript, XSLT/XML, XHTML) - with an emphasis on accessibility and UX
-* Writing technical documentation, identifying security considerations, user interface and experience design
-* Specialisation in code gardening (refactoring, pruning, maintenance, documentation, automation, data cleaning)
-
 ## POSITIONS OF RESPONSIBILITY AND VOLUNTEER WORK
 
-Walkthrough Writer on TrueAchievements.com (2014 - 2020)
+ID@Xbox Moderator (2022 - present)
+
+Walkthrough Writer on TrueAchievements.com (2014 - 2019)
 
 PHP Conference (London) (2016) - Part of the Mentorship program
 
@@ -141,11 +125,11 @@ LiveJournal.com Customer Support (January 2003 - January 2005) - Volunteer suppo
 
 ## OTHER INTERESTS
 
-* Streaming video games regularly on Twitch
-* One of the Hosts on the Home Movie Club podcast, part of the That Podcast Thing network
-* Computer games, achievement hunting, photography, reading, puzzles, ARGs: a self-confessed geek
-* Swimming (Gold Survival, Life Support 2 First Aid and Merit Lifesaving Award)
-* Arts and Crafts: watercolour painting, cross-stitch, FIMO modelling
-* Music (ABRSM Grade 5 Theory and Flute, and Grade 3 Piano)
-* Blood Donor (and on Bone Marrow Donation Registry) (2000 - present)
-* Clean UK Driving Licence
+* Streaming regularly on Twitch
+* Computer games, achievement hunting, reading, escape rooms, puzzles: a self-confessed geek
+
+## OTHER RELEVANT INFORMATION
+
+Autistic/ ADHD/ C-PTSD
+
+**What does that mean?** - Great attention to detail; evaluates all possible outcomes/ edge cases; can balance big picture with little details; intense/ deep focus; highly organised; keeps on top of all outstanding tasks; wants to make everyone’s lives easier/ make a difference; loves routine tasks (e.g code gardening); tenacity and resilience; integrity and commitment; excellent at multi-tasking; highly empathetic; great in a crisis.
