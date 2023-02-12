@@ -25,7 +25,7 @@ Talented and experienced technical leader, manager, mentor and coach; with a pas
 * Javascript (Node, Typescript, Vue including Composition API, React) 
 * Augmented Reality (AR) - Three.js, Shaders (GLSL), GLB/GLTF/USDZ, Model Viewer, WebAR
 * Analytics and data engineering (Snowplow, dbt Cloud, Postgres, SQL)
-* Automated testing - Unit/ integration tests (PHPUnit, Cypress, Mocha, etc); Static code analytics (ESlint, PHPStan, etc)
+* Automated testing - Unit/ integration tests (PHPUnit, Cypress, Mocha, etc); Static code analytics (ESLint, PHPStan, etc)
 * Devops/ Infrastructure (AWS, GCP, Terraform, Ansible, Kubernetes, Docker, Nginx)
 
 ## EXPERIENCE
@@ -33,17 +33,17 @@ Talented and experienced technical leader, manager, mentor and coach; with a pas
 ### Head of Engineering, Poplar Studio (September 2020 - March 2023)
 #### &nbsp; &nbsp; Tech Lead (September 2020 - September 2021)
 
-At Poplar Studio, learning is at the core of everything we do and we are passionate about educating people about AR. Our project management tools and talent cloud make it easy for brands to create and deploy AR and 3D experiences across all channels. We also have a lot of fun trying the latest immersive technologies and we want to share that fun with everyone.
+At Poplar Studio, learning is at the core of everything we do, and we are passionate about educating people about AR. Our project management tools and talent cloud make it easy for brands to create and deploy AR and 3D experiences across all channels. We also have a lot of fun trying the latest immersive technologies and we want to share that fun with everyone.
 
-I was part of the leadership team throughout my tenure, which including attending board meetings and presenting to investors (and applying for R&D Tax Credits). I was responsible for building, managing and coaching the engineering team; and for technical architecture and direction, in direct liaison with the product team. I was also responsible for shaping and maintaining an inclusive company culture - changing behaviours for the better, and inspiring others to share and be themselves.
+I have been part of the leadership team throughout my tenure, which includes attending board meetings and presenting to investors (and applying for R&D Tax Credits). I have been responsible for building, managing and coaching the engineering team; and for technical architecture and direction, in direct liaison with the product team. I have also been responsible for shaping and maintaining an inclusive company culture - changing behaviours for the better, and inspiring others to share and be themselves.
 
-I was hand-ons with innovating, coding and managing tech debt and infrastructure; building and managing 5+ SaaS platforms from the ground up. Our work enables brands/agencies to submit briefs through a simple interface, to manage projects with a network of creators through our platform, with a CMS to enable virtual try ons of various products including rings, watches, furniture etc. at scale, which can be integrated through single line of code. 
+I have been hand-ons with innovating, coding and managing tech debt and infrastructure; building and managing 5+ SaaS platforms from the ground up. Our work enables brands/agencies to submit briefs through a simple interface; to manage projects with a network of creators through our platform; with a CMS to enable virtual try ons of various products including rings, watches, furniture etc. at scale, which can be integrated through a single line of code. 
 
-- Line manager for two team members, and mentor to other roles - responsibilities included annual reviews, career progression, compensation evaluation, weekly 1:1s, and 360 feedback
-- Platform migration from Wordpress to Vue and Laravel with Nova for the Admin (with Ansible, AWS and Postgres), including a recent upgrade to the Vue Composition API - this enabled the business to move from an MVP (which was unsuitable for building on as a base) to a flexible, scalable and secure platform
-- Researching, designing and building an Analytics Pipeline and data visualisation in Snowplow and dbt cloud (with Terraform and AWS) - which enabled the business to use the custom data collected to gain a fuller understanding of a user’s journey through 3D and AR
+- Line manager for two team members, and mentor to other roles - responsibilities include annual reviews, career progression, compensation evaluation, weekly 1:1s, and 360 feedback
+- Platform migration from WordPress to Vue and Laravel with Nova for the Admin (with Ansible, AWS and Postgres), including a recent upgrade to the Vue Composition API - this enabled the business to move from an MVP (which was unsuitable for building on as a base) to a flexible, scalable and secure platform
+- Researching, designing and building an Analytics Pipeline and data visualisation in Snowplow and dbt cloud (with Terraform and AWS) - which enables the business to use the custom data collected to gain a fuller understanding of a user’s journey through 3D and AR
 - Learning about AR, with a focus on WebAR, 3D models and shaders; and working with the team to innovate and build new products, and learning via solo and paired projects
-- Development of an embeddable unit integrated with a single line of code for e-commerce websites to showcase their products in 3D and AR - including innovation around how to make AR accessible
+- Development of an embeddable unit integrated with a single line of code, for e-commerce clients to showcase their products in 3D and AR on their websites - including innovation around how to make AR accessible
 - Upgrading and maintaining the AR-asset conversion pipeline, API, CMS and infrastructure (Node, Postgres, GCP, Kubernetes, Terraform) enabling the addition of multiple useful features to expand our offerings and make customers’ lives easier
 
 ### Director, Jo Carter Ltd (April 2019 - June 2021)
@@ -112,7 +112,7 @@ Volunteer on the Xbox LIVE Support and Enforcement Teams (May 2012 - November 20
 
 University of Nottingham (January 2004 – September 2005) - Representative on the Student-Staff Consultative Committee (MSc in IT), IT Officer on the Student Union Societies Executive Committee
 
-LiveJournal.com Customer Support (January 2003 - January 2005) - Volunteer support help, trainer and mentor on Technical Support Team and member of the French translation team for technical documentation
+LiveJournal.com Customer Support (January 2003 - January 2005)
 
 ## OTHER INTERESTS
 
