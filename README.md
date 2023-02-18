@@ -20,7 +20,7 @@ If you are feeling generous, my <a href="http://www.amazon.co.uk/wishlist/3V8TFO
 
 You can also find me on the following sites:
 
-- <a rel="me" href="https://mastodon.lol/@angelsk">@angelsk@mastodon.lol on Mastodon</a>
+- <a rel="me" href="https://toot.cat/@angelsk">@angelsk@toot.cat on Mastodon</a>
 - angelsk on Hive (no web link atm)
 - <a rel="me" href="https://twitter.com/angelsk" class="txt">@angelsk on Twitter</a>
 - <a rel="me" href="https://facebook.com/jocarter" class="txt">Find me on Facebook</a>
