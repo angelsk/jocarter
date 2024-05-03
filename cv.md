@@ -6,45 +6,64 @@ permalink: /cv
 
 ## Jo Carter (she/ they) / London, UK (Remote)
 
-Contact: [work@jocarter.co.uk](mailto:work@jocarter.co.uk) or [linkedin.com/in/jocarter](https://www.linkedin.com/in/jocarter)
+Contact: [work@jocarter.co.uk](mailto:work@jocarter.co.uk) or [linkedin.com/in/jocarter](https://www.linkedin.com/in/jocarter) (including recommendations)
 
 Talented and experienced technical leader, manager, mentor and coach; with a passion for diversity, inclusion, accessibility and enabling others. Looking for a balance between management, technical architecture and leadership, and hands-on coding. My goal is to help drive a positive change in those around me; through coaching, technology and awareness. A literal-minded individual who thrives with clarity of communication, and in an open and inclusive workplace culture.
 
 ## KEY SKILLS
 
-* Building diverse and inclusive teams; with a focus on accessibility, shaping company culture and having a positive impact on peoples lives
-* Managing, coaching, mentoring; with a special interest in neurodivergent individuals 
-* Product-minded team leader and engineer (accessibility, domain-driven design and test-driven development, contributing back to open source projects)
-* Writing technical documentation and diagrams, identifying security considerations and edge cases, user interface and experience design
+* Product-minded team leader and engineer (accessibility, domain-driven design and test-driven development, contributing back to open source projects, as well as hands on coding)
+* Managing, coaching, mentoring; leading and developing teams of engineers, with a special interest in neurodivergent individuals
+* Writing technical documentation, identifying security risks, considerations and edge cases, user interface and experience design
 * Specialisation in code gardening (refactoring, pruning, maintenance, documentation, automation, data cleaning)
 * Delivery assurance (code quality, automated testing, quality assurance, edge cases, aesthetics, follow through, oversight over the entire project process)
+* Building diverse and inclusive teams; with a focus on neurodiversity and accessibility, shaping company culture and having a positive impact on peoples’ lives
 
 ## TECHNOLOGIES AND PLATFORMS
 
 * PHP (Laravel with Nova, Symfony) 
 * Javascript (Node, Typescript, Vue including Composition API, React) 
 * Augmented Reality (AR) - Three.js, Shaders (GLSL), GLB/GLTF/USDZ, Model Viewer, WebAR
+* Mobile app and game development (ReactNative, RenJS, Unity*, Apple AppStore and GooglePlay)
 * Analytics and data engineering (Snowplow, dbt Cloud, Postgres, SQL)
 * Automated testing - Unit/ integration tests (PHPUnit, Cypress, Mocha, etc); Static code analytics (ESLint, PHPStan, etc)
-* Devops/ Infrastructure (AWS, GCP, Terraform, Ansible, Kubernetes, Docker, Nginx)
+* Devops/ Infrastructure (AWS, GCP, Terraform, Ansible, Kubernetes, Docker, Nginx, Jenkins)
 
 ## EXPERIENCE
 
-### Head of Engineering, Poplar Studio (September 2020 - March 2023)
+### Head of Engineering, PRELOADED (April 2023 - present)
+
+PRELOADED’s core values are we play with purpose, we are curious, we are greater than the sum of our parts, we prioritise a work/life balance and we believe in accountability and trust. I believe that during my tenure at PRELOADED I have embodied those values, and made a difference to both the Engineering team, and the wider team as a whole.  I am also an advocate for diversity and inclusion.
+
+As Head of Engineering I am responsible for ensuring that the Engineering team is set up for success - through leading, nurturing and developing the individuals in the team, and ensuring the right level of studio-wide Engineering Governance and processes are in place to successfully deliver a broad range of projects. I am incredibly proud and passionate about bringing Technical Excellence to everything I do - across projects, processes and pitches.
+
+From a team leadership perspective, I make sure that the Engineering team are supported, and have a voice. They know that I have their backs and this makes them feel empowered. My management philosophy is one of trust, empathy and clear communication, along with a healthy dose of radical candour.  I encourage autonomy, whilst also providing structure and support where needed; tailored to each individual’s needs.
+
+I have been responsible for overseeing the successful deployment of several projects during my tenure, including Wonders: Pyramids of Giza (An educational UEFN Map, in collaboration with Epic Games), Andrex’s GoTime app (Unity mobile app, for Kimberley-Clark), and LEGO® Cat Island Adventure (UEFN Map, in collaboration with LEGO System A/S).
+
+* Responsible for overseeing and contributing to many Web, ReactNative, Unity, Roblox and UEFN projects, pitches and prototypes for other (big name) clients (some unreleased, all under NDA)
+* Line manager for the engineering team (3-5 engineers), and mentor to other roles - my responsibilities include annual reviews, career progression, compensation evaluation, weekly 1:1s, and 360 feedback
+* Outlining what Engineering Governance and Technical Excellence looks like at PRELOADED; including spearheading and practising the process of continuous (but not onerous) documentation of projects and processes
+* Responsible for Devops, including maintaining our build machine and our Jenkins build pipeline (used for Unity and ReactNative projects)
+* Collaborating with other departments, fostering robust cross-discipline relationships and navigating ways of working to support both the team and the projects, encouraging communication and collaborative problem solving and troubleshooting
+* Proactively upskilling myself, honing my own skills, knowledge and understanding; learning about the specifics of game design and development (including learning the basics of Unity); and using my universally applicable knowledge to help my team debug some of their projects
+* Advocate for diversity, equality, inclusion and belonging (DEIB). I am specifically passionate in advocating for the lived experiences of and support for neurodivergent individuals. Pioneering processes and sharing my personal experiences and knowledge in order to make the work environment a more inclusive one, and instilling a strong sense of belonging allowing everyone to do their best work
+
+### Head of Engineering, Poplar Studio (September 2020 - March 2023) (Redundancy)
 #### &nbsp; &nbsp; Tech Lead (September 2020 - September 2021)
 
-At Poplar Studio, learning is at the core of everything we do, and we are passionate about educating people about AR. Our project management tools and talent cloud make it easy for brands to create and deploy AR and 3D experiences across all channels. We also have a lot of fun trying the latest immersive technologies and we want to share that fun with everyone.
+At Poplar Studio, learning was at the core of everything we did, and we were passionate about educating people about Augmented Reality (AR). Our project management tools and talent cloud made it easy for brands to create and deploy AR and 3D experiences across all channels. We also had a lot of fun trying the latest immersive technologies and we wanted to share that fun with everyone.
 
-I have been part of the leadership team throughout my tenure, which includes attending board meetings and presenting to investors (and applying for R&D Tax Credits). I have been responsible for building, managing and coaching the engineering team; and for technical architecture and direction, in direct liaison with the product team. I have also been responsible for shaping and maintaining an inclusive company culture - changing behaviours for the better, and inspiring others to share and be themselves.
+I was part of the Leadership team throughout my tenure, which included attending board meetings and presenting to investors (and applying for R&D Tax Credits). I was responsible for building, managing and coaching the engineering team; and for technical architecture and direction, in direct liaison with the product team. I was also responsible for shaping and maintaining an inclusive company culture - changing behaviours for the better, and inspiring others to share and be themselves.
 
-I have been hand-ons with innovating, coding and managing tech debt and infrastructure; building and managing 5+ SaaS platforms from the ground up. Our work enables brands/agencies to submit briefs through a simple interface; to manage projects with a network of creators through our platform; with a CMS to enable virtual try ons of various products including rings, watches, furniture etc. at scale, which can be integrated through a single line of code. 
+I was hand-ons with innovating, coding and managing tech debt and infrastructure; building and managing 5+ SaaS platforms from the ground up. Our work enabled brands/agencies to submit briefs through a simple interface; to manage projects with a network of creators through our platform; with a CMS to enable virtual try ons of various products including rings, watches, furniture etc. at scale, which could be integrated through a single line of code.
 
-- Line manager for two team members, and mentor to other roles - responsibilities include annual reviews, career progression, compensation evaluation, weekly 1:1s, and 360 feedback
-- Platform migration from WordPress to Vue and Laravel with Nova for the Admin (with Ansible, AWS and Postgres), including a recent upgrade to the Vue Composition API - this enabled the business to move from an MVP (which was unsuitable for building on as a base) to a flexible, scalable and secure platform
-- Researching, designing and building an Analytics Pipeline and data visualisation in Snowplow and dbt cloud (with Terraform and AWS) - which enables the business to use the custom data collected to gain a fuller understanding of a user’s journey through 3D and AR
-- Learning about AR, with a focus on WebAR, 3D models and shaders; and working with the team to innovate and build new products, and learning via solo and paired projects
-- Development of an embeddable unit integrated with a single line of code, for e-commerce clients to showcase their products in 3D and AR on their websites - including innovation around how to make AR accessible
-- Upgrading and maintaining the AR-asset conversion pipeline, API, CMS and infrastructure (Node, Postgres, GCP, Kubernetes, Terraform) enabling the addition of multiple useful features to expand our offerings and make customers’ lives easier
+* Line manager for two team members, and mentor to other roles - my responsibilities included annual reviews, career progression, compensation evaluation, weekly 1:1s, and 360 feedback.
+* Platform migration from WordPress to Vue and Laravel with Nova for the Admin (with Ansible, AWS and Postgres), including an upgrade to using the Vue Composition API - this enabled the business to move from an MVP (which was unsuitable for building on as a base) to a flexible, scalable and secure platform.
+* Researching, designing and building an Analytics Pipeline and data visualisation in Snowplow and dbt cloud (with Terraform and AWS) - which enabled the business to use the custom data collected to gain a fuller understanding of a user’s journey through 3D and AR.
+* Proactively upskilling myself in AR, with a focus on WebAR, 3D models and shaders; and working with the team to innovate and build new products, and learning via solo and paired projects.
+* Development of an embeddable unit integrated with a single line of code, for e-commerce clients to showcase their products in 3D and AR on their websites - including innovation around how to make AR accessible.
+* Upgrading and maintaining the AR-asset conversion pipeline, API, CMS and infrastructure (Node, Postgres, GCP, Kubernetes, Terraform) enabling the addition of multiple useful features to expand our offerings and make customers’ lives easier.
 
 ### Director, Jo Carter Ltd (April 2019 - June 2021)
 
@@ -104,6 +123,8 @@ BA (Hons) Law with French: II.ii (3rd year at l’Université de Nantes, France)
 
 ID@Xbox Moderator (2022 - present)
 
+Xbox Ambassador (2012 - present)
+
 Walkthrough Writer on TrueAchievements.com (2014 - 2019)
 
 PHP Conference (London) (2016) - Part of the Mentorship program
@@ -116,7 +137,7 @@ LiveJournal.com Customer Support (January 2003 - January 2005)
 
 ## OTHER INTERESTS
 
-* Streaming (indie games) regularly on Twitch
+* Content creator and streamer (indie games) on Twitch (2017 - present)
 * Computer games, achievement hunting, reading, escape rooms, puzzles, knitting: a self-confessed geek
 
 ## OTHER RELEVANT INFORMATION
