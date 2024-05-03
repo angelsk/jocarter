@@ -41,13 +41,13 @@ From a team leadership perspective, I make sure that the Engineering team are su
 
 I have been responsible for overseeing the successful deployment of several projects during my tenure, including Wonders: Pyramids of Giza (An educational UEFN Map, in collaboration with Epic Games), Andrex’s GoTime app (Unity mobile app, for Kimberley-Clark), and LEGO® Cat Island Adventure (UEFN Map, in collaboration with LEGO System A/S).
 
-* Responsible for overseeing and contributing to many Web, ReactNative, Unity, Roblox and UEFN projects, pitches and prototypes for other (big name) clients (some unreleased, all under NDA)
-* Line manager for the engineering team (3-5 engineers), and mentor to other roles - my responsibilities include annual reviews, career progression, compensation evaluation, weekly 1:1s, and 360 feedback
-* Outlining what Engineering Governance and Technical Excellence looks like at PRELOADED; including spearheading and practising the process of continuous (but not onerous) documentation of projects and processes
-* Responsible for Devops, including maintaining our build machine and our Jenkins build pipeline (used for Unity and ReactNative projects)
-* Collaborating with other departments, fostering robust cross-discipline relationships and navigating ways of working to support both the team and the projects, encouraging communication and collaborative problem solving and troubleshooting
-* Proactively upskilling myself, honing my own skills, knowledge and understanding; learning about the specifics of game design and development (including learning the basics of Unity); and using my universally applicable knowledge to help my team debug some of their projects
-* Advocate for diversity, equality, inclusion and belonging (DEIB). I am specifically passionate in advocating for the lived experiences of and support for neurodivergent individuals. Pioneering processes and sharing my personal experiences and knowledge in order to make the work environment a more inclusive one, and instilling a strong sense of belonging allowing everyone to do their best work
+* Responsible for overseeing and contributing to many Web, ReactNative, Unity, Roblox and UEFN projects, pitches and prototypes for other (big name) clients (some unreleased, all under NDA).
+* Line manager for the engineering team (3-5 engineers), and mentor to other roles - my responsibilities include annual reviews, career progression, compensation evaluation, weekly 1:1s, and 360 feedback.
+* Outlining what Engineering Governance and Technical Excellence looks like at PRELOADED; including spearheading and practising the process of continuous (but not onerous) documentation of projects and processes.
+* Responsible for Devops, including maintaining our build machine and our Jenkins build pipeline (used for Unity and ReactNative projects).
+* Collaborating with other departments, fostering robust cross-discipline relationships and navigating ways of working to support both the team and the projects, encouraging communication and collaborative problem solving and troubleshooting.
+* Proactively upskilling myself, honing my own skills, knowledge and understanding; learning about the specifics of game design and development (including learning the basics of Unity); and using my universally applicable knowledge to help my team debug some of their projects.
+* Advocate for diversity, equality, inclusion and belonging (DEIB). I am specifically passionate in advocating for the lived experiences of and support for neurodivergent individuals. Pioneering processes and sharing my personal experiences and knowledge in order to make the work environment a more inclusive one, and instilling a strong sense of belonging allowing everyone to do their best work.
 
 ### Head of Engineering, Poplar Studio (September 2020 - March 2023) (Redundancy)
 #### &nbsp; &nbsp; Tech Lead (September 2020 - September 2021)
