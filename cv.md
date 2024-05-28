@@ -31,7 +31,7 @@ Talented and experienced technical leader, manager, mentor and coach; with a pas
 
 ## EXPERIENCE
 
-### Head of Engineering, PRELOADED (April 2023 - present)
+### Head of Engineering, PRELOADED (April 2023 - May 2024) (Redundancy)
 
 PRELOADED’s core values are we play with purpose, we are curious, we are greater than the sum of our parts, we prioritise a work/life balance and we believe in accountability and trust. I believe that during my tenure at PRELOADED I have embodied those values, and made a difference to both the Engineering team, and the wider team as a whole.  I am also an advocate for diversity and inclusion.
 
@@ -47,7 +47,7 @@ I have been responsible for overseeing the successful deployment of several proj
 * Responsible for Devops, including maintaining our build machine and our Jenkins build pipeline (used for Unity and ReactNative projects).
 * Collaborating with other departments, fostering robust cross-discipline relationships and navigating ways of working to support both the team and the projects, encouraging communication and collaborative problem solving and troubleshooting.
 * Proactively upskilling myself, honing my own skills, knowledge and understanding; learning about the specifics of game design and development (including learning the basics of Unity); and using my universally applicable knowledge to help my team debug some of their projects.
-* Advocate for diversity, equality, inclusion and belonging (DEIB). I am specifically passionate in advocating for the lived experiences of and support for neurodivergent individuals. Pioneering processes and sharing my personal experiences and knowledge in order to make the work environment a more inclusive one, and instilling a strong sense of belonging allowing everyone to do their best work.
+* Advocate for diversity, equity, inclusion and belonging (DEIB). I am specifically passionate in advocating for the lived experiences of and support for neurodivergent individuals. Pioneering processes and sharing my personal experiences and knowledge in order to make the work environment a more inclusive one, and instilling a strong sense of belonging allowing everyone to do their best work.
 
 ### Head of Engineering, Poplar Studio (September 2020 - March 2023) (Redundancy)
 #### &nbsp; &nbsp; Tech Lead (September 2020 - September 2021)
