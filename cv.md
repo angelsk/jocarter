@@ -21,15 +21,27 @@ Talented and experienced technical leader, manager, mentor and coach; with a pas
 
 ## TECHNOLOGIES AND PLATFORMS
 
-* PHP (Laravel with Nova, Symfony) 
-* Javascript (Node, Typescript, Vue including Composition API, React) 
-* Augmented Reality (AR) - Three.js, Shaders (GLSL), GLB/GLTF/USDZ, Model Viewer, WebAR
-* Mobile app and game development (ReactNative, RenJS, Unity*, Apple AppStore and GooglePlay)
-* Analytics and data engineering (Snowplow, dbt Cloud, Postgres, SQL)
+* PHP (Laravel with Nova, Symfony), ORMs (Doctrine, Eloquent, Propel) and event-based architecture
+* Javascript (Node.js, Typescript, React.js (React-Three/Fiber, DREI and UIKit), Next.js, Vue (Composition API) 
+* Augmented, Mixed and Virtual Reality (AR/ XR/ VR) - Three.js, Shaders (GLSL), GLB/GLTF/USDZ, Model Viewer, WebAR, WebXR
+* Databases, analytics and data engineering (Snowplow, dbt Cloud, Postgres, SQL, GraphQL)
 * Automated testing - Unit/ integration tests (PHPUnit, Cypress, Mocha, etc); Static code analytics (ESLint, PHPStan, etc)
 * Devops/ Infrastructure (AWS, GCP, Terraform, Ansible, Kubernetes, Docker, Nginx, Jenkins)
+* Mobile app and game development (ReactNative, RenJS, Unity*, Apple AppStore and GooglePlay)
 
 ## EXPERIENCE
+
+### Freelance Three.js Developer, Make Associates (Jul 2025 - Present)
+
+Worked on a custom webXR-based 3D VR training experience (for use on the Quest headset and mobile VR) using Typescript, React.js, Three.js, React-Three/Fiber and Next.js. Custom UI, fonts and animation using Three.js, React-Three/UIKit and DREI. Dynamic content integrated via Strapi CMS and GraphQL.
+
+Technologies: VR, XR, 3D, Three.js, React-Three/Fiber, React, TypeScript, Next.js, Vercel, Strapi CMS, Github, jit.io
+
+### Freelance Full Stack Developer, Alex Howard Group (July - September 2024, December 2024 - January 2025)
+
+I was brought in to Investigate and fix issues with Cloudflare; and to fix and improve the Order system on the Conscious Life website to avoid missing data (using callbacks and asynchronous event-based queues); and I also performed various code gardening tasks including fixing Dusk test suites. I thoroughly documented these investigations and existing functionality in order to see where improvements could be made.  I then turned the documentation into multiple testing suites to ensure that the functionality matched the business needs (and changes could be made with confidence). I was brought back in December to do some paternity cover; where I fixed and completed the in-progress upsell functionality, along with providing technical support.
+
+Technologies: Cloudflare, GCP, Laravel Forge, Laravel with Statamic CMS integrated with Keap/ Infusionsoft and Zendesk, Vite, Tailwind, PHPUnit, Dusk, Github actions.
 
 ### Head of Engineering, PRELOADED (April 2023 - May 2024) (Redundancy)
 
@@ -119,11 +131,15 @@ MSc in Information Technology: **Distinction**
 
 BA (Hons) Law with French: II.ii (3rd year at l’Université de Nantes, France)
 
-## POSITIONS OF RESPONSIBILITY AND VOLUNTEER WORK
+## POSITIONS OF RESPONSIBILITY, CHARITY AND VOLUNTEER WORK
+
+Xbox Moderator (2024 - present)
 
 ID@Xbox Moderator (2022 - present)
 
-Xbox Ambassador (2012 - present)
+Streaming for Extra Life (2019 - present) (Raised over $13k)
+
+Xbox Ambassador (2012 - 2024)
 
 Walkthrough Writer on TrueAchievements.com (2014 - 2019)
 
