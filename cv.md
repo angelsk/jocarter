@@ -31,7 +31,7 @@ Talented and experienced technical leader, manager, mentor and coach; with a pas
 
 ## EXPERIENCE
 
-### Freelance Three.js Developer, Make Associates (Jul 2025 - Present)
+### Freelance Three.js Developer, Make Associates (July 2025 - August 2025)
 
 Worked on a custom webXR-based 3D VR training experience (for use on the Quest headset and mobile VR) using Typescript, React.js, Three.js, React-Three/Fiber and Next.js. Custom UI, fonts and animation using Three.js, React-Three/UIKit and DREI. Dynamic content integrated via Strapi CMS and GraphQL.
 
